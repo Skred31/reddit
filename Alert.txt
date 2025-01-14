@@ -1,0 +1,749 @@
+Niveau	Date et heure	Source	ID de l’événement	Catégorie de la tâche
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 3b
+P2 : c0000005
+P3 : fffff8018740d570
+P4 : ffff8380037f58d0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\011225-10343-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-10343-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c85ce426-98d7-4bde-bd45-5259f6a3f990.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8993f3b4-c198-48df-882a-6dad39fb623b.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.af36b4df-bdca-4785-bd73-6eb90f6d5add.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.3aa0c793-ea02-413f-bb0c-b53efdd4630b.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_3b_edacd22aba8c6768a3f6ac4c17135adfd82ad55_00000000_30c1fcc4-afbb-4406-9f52-350781370674
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : f2b323ca-71e0-4912-b61f-5702ca847cf7
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1a8
+P2 : a
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250112-0150.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-805671-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70de277e-a5af-4fa0-aff1-9bc434ee4d0a.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1184e0c1-151a-4d8b-8142-8cd6c1db7455.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1e648485-2f5e-408e-b03a-1e6a02318b0e.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.543b1123-70f9-4c06-870c-841a181bec72.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_841a3155-cb58-46ac-b1b7-679ea4678264
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 841a3155-cb58-46ac-b1b7-679ea4678264
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 3b
+P2 : c0000005
+P3 : fffff8001dfe7dbc
+P4 : fffff30a1c53e350
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\011125-10500-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-10500-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b40c9916-aa6f-4a02-809d-273f75057e5e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8be2bfb8-4092-4937-9065-e83ef15171bf.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7a0caae3-38b7-4ef8-a171-9b9e99f91e83.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.ab3f1bc2-3d4c-466d-90c6-916345598d3e.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_3b_78a5fb5b787f679857e11a129efea2a6fd1cfef_00000000_18a4f0c3-af68-4432-b5ed-1ba98720b942
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 2d246874-f7dc-4fef-8def-469cafd2f70e
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1e
+P2 : ffffffffc0000005
+P3 : fffff800cf7bb13f
+P4 : 0
+P5 : ffffffffffffffff
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\123024-9593-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-9593-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.79db701d-7d3b-4c40-b678-09811367e60b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5b798008-2d67-42ca-9087-37607b7514d2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c8b435e1-da44-499a-afc9-7990ffd35439.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6ba50061-3518-4fe2-8c58-8b506b5089d0.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1e_5833e7c81b72d26433782fbdac81d5017bd499a_00000000_94621d01-4d52-44a4-9d58-64b32d16a53c
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 4c1467d0-352f-4ede-87e6-f8c51e7e8eda
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : a1000005
+P2 : 0
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\AMD_WATCHDOG\AMD_WATCHDOG-20241229-2008.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-15015078-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.ca1514c6-e551-4619-a074-2f4d9ed5b254.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8e52f08e-e316-437c-87e3-a112bb1e0803.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a1e15cb-e7d4-4031-869b-4cd7ed3a6edb.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.33fdc925-6ff1-40d4-a319-a9e116e08507.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a1000005_c1f74a299581c99911c0fa95271acf3ba93f26_00000000_7c5efb32-72e5-4f81-aae6-969f7e1f2986
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 7c5efb32-72e5-4f81-aae6-969f7e1f2986
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1e
+P2 : ffffffffc0000005
+P3 : fffff8041de91017
+P4 : 0
+P5 : ffffffffffffffff
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\121824-10171-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-10171-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.38ad25ee-aa48-47a2-8b6d-fadda381098f.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a4b12f4-aa91-432d-b605-825b1fe8ee71.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.46578349-1cb4-4b54-bd88-6c1a51f6df62.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.41c3fc47-da48-495b-9908-42c1f21c37d6.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1e_53cb64eb9de125c9d22383abeb3e5d64f3bf13_00000000_0a3d5147-2259-461e-b7fb-b0ca87fe68d5
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 1fc6fe3d-1196-4f9a-a571-85273856fe6f
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 7e
+P2 : ffffffffc0000005
+P3 : fffff80083282907
+P4 : ffffdc8fca849618
+P5 : fffff800150d78d0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\121724-11453-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-11453-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d0e1f133-36de-4734-a85f-1bb66de0e595.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9358c966-ec02-4c8f-aa0a-2dbe525ac294.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7eb62f7c-1b23-4f11-8ad1-f9795a45e426.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.11db5435-6434-4766-b752-009bd05f4994.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_7e_f597f8a88aae88178df58c4db4f2e1ed0bc55b_00000000_d0f1003a-df52-45e7-8bd0-66c4c673fe90
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : dd56a7e1-a4b1-4621-92e5-95d1acbee6b7
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1b8
+P2 : a
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG4400\WATCHDOG4400-20241216-2054.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-6826046-1.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5ffc9f8a-a515-4b47-a3f9-97a6b8fb8743.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.f87e3252-539a-463c-ab54-40cebd65a052.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.097efdd9-f80b-46b7-9a31-6af04476d27a.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.91142384-fd90-4c3d-a991-fd4e4841154c.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1b8_8fa7e01760fd533c5dce8eb299b7ad27ad53e77_00000000_d3bff013-bbe2-4f84-945e-7fd865d771f3
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : d3bff013-bbe2-4f84-945e-7fd865d771f3
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1a8
+P2 : a
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20241216-2054.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-6825937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.26d7011e-3be9-47a0-ab59-ed5a5ce48d4e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.586d0ddc-793d-4260-a370-95b313713182.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.fd762870-df0d-4e2e-b863-e8ade277d17d.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2f3fbd2f-56c7-467b-acab-0a9ea118d79d.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_0b98cc20-c75f-43ee-b6b0-17837fcda14f
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 0b98cc20-c75f-43ee-b6b0-17837fcda14f
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 7e
+P2 : ffffffffc0000005
+P3 : fffff802e46731c8
+P4 : ffffbb02b6e4ebd8
+P5 : ffffbb02b6e4e3c0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\121324-11046-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-11046-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9e957d25-20c8-460b-b614-fa61dd68e865.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.866b92c8-6605-49ed-bcbd-367557f5c014.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.326cdf4c-7316-4540-a873-38d066fca886.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c24ca78a-71d4-49db-b5bf-5852c590ca52.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_7e_94169f7faae4dd2146da21cd9701384696f8_00000000_4e86234b-168d-4b84-82cd-ea478fc76054
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : a232c5e1-1d96-4626-825d-9770877a53de
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:38:18	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 193
+P2 : 80e
+P3 : ffffe78fa54330c0
+P4 : ffff908c7cc24d70
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20241211-1926.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-31314375-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2d2656ad-dee0-48f6-adaa-87983f67b6f1.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.4c06090b-fc56-477e-98c6-ade745bfbabe.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.901f538a-81bc-41b4-b1b9-16fa474b5dd5.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.116944c0-4259-473d-a00a-3399f3282964.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_193_2c6fcbc962d5113759db47db45f3b1ea72adfce2_00000000_20eac31f-cf39-442c-bc9c-e71510c5572a
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 20eac31f-cf39-442c-bc9c-e71510c5572a
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:55	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 3b
+P2 : c0000005
+P3 : fffff8018740d570
+P4 : ffff8380037f58d0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\011225-10343-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-10343-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c85ce426-98d7-4bde-bd45-5259f6a3f990.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8993f3b4-c198-48df-882a-6dad39fb623b.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.af36b4df-bdca-4785-bd73-6eb90f6d5add.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.3aa0c793-ea02-413f-bb0c-b53efdd4630b.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_3b_edacd22aba8c6768a3f6ac4c17135adfd82ad55_00000000_30c1fcc4-afbb-4406-9f52-350781370674
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : f2b323ca-71e0-4912-b61f-5702ca847cf7
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:55	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1a8
+P2 : a
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250112-0150.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-805671-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70de277e-a5af-4fa0-aff1-9bc434ee4d0a.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1184e0c1-151a-4d8b-8142-8cd6c1db7455.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1e648485-2f5e-408e-b03a-1e6a02318b0e.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.543b1123-70f9-4c06-870c-841a181bec72.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_841a3155-cb58-46ac-b1b7-679ea4678264
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 841a3155-cb58-46ac-b1b7-679ea4678264
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 3b
+P2 : c0000005
+P3 : fffff8001dfe7dbc
+P4 : fffff30a1c53e350
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\011125-10500-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-10500-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b40c9916-aa6f-4a02-809d-273f75057e5e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8be2bfb8-4092-4937-9065-e83ef15171bf.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7a0caae3-38b7-4ef8-a171-9b9e99f91e83.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.ab3f1bc2-3d4c-466d-90c6-916345598d3e.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_3b_78a5fb5b787f679857e11a129efea2a6fd1cfef_00000000_18a4f0c3-af68-4432-b5ed-1ba98720b942
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 2d246874-f7dc-4fef-8def-469cafd2f70e
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1e
+P2 : ffffffffc0000005
+P3 : fffff800cf7bb13f
+P4 : 0
+P5 : ffffffffffffffff
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\123024-9593-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-9593-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.79db701d-7d3b-4c40-b678-09811367e60b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5b798008-2d67-42ca-9087-37607b7514d2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c8b435e1-da44-499a-afc9-7990ffd35439.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6ba50061-3518-4fe2-8c58-8b506b5089d0.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1e_5833e7c81b72d26433782fbdac81d5017bd499a_00000000_94621d01-4d52-44a4-9d58-64b32d16a53c
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 4c1467d0-352f-4ede-87e6-f8c51e7e8eda
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : a1000005
+P2 : 0
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\AMD_WATCHDOG\AMD_WATCHDOG-20241229-2008.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-15015078-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.ca1514c6-e551-4619-a074-2f4d9ed5b254.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8e52f08e-e316-437c-87e3-a112bb1e0803.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a1e15cb-e7d4-4031-869b-4cd7ed3a6edb.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.33fdc925-6ff1-40d4-a319-a9e116e08507.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a1000005_c1f74a299581c99911c0fa95271acf3ba93f26_00000000_7c5efb32-72e5-4f81-aae6-969f7e1f2986
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 7c5efb32-72e5-4f81-aae6-969f7e1f2986
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1e
+P2 : ffffffffc0000005
+P3 : fffff8041de91017
+P4 : 0
+P5 : ffffffffffffffff
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\121824-10171-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-10171-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.38ad25ee-aa48-47a2-8b6d-fadda381098f.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a4b12f4-aa91-432d-b605-825b1fe8ee71.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.46578349-1cb4-4b54-bd88-6c1a51f6df62.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.41c3fc47-da48-495b-9908-42c1f21c37d6.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1e_53cb64eb9de125c9d22383abeb3e5d64f3bf13_00000000_0a3d5147-2259-461e-b7fb-b0ca87fe68d5
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 1fc6fe3d-1196-4f9a-a571-85273856fe6f
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 7e
+P2 : ffffffffc0000005
+P3 : fffff80083282907
+P4 : ffffdc8fca849618
+P5 : fffff800150d78d0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\121724-11453-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-11453-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d0e1f133-36de-4734-a85f-1bb66de0e595.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9358c966-ec02-4c8f-aa0a-2dbe525ac294.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7eb62f7c-1b23-4f11-8ad1-f9795a45e426.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.11db5435-6434-4766-b752-009bd05f4994.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_7e_f597f8a88aae88178df58c4db4f2e1ed0bc55b_00000000_d0f1003a-df52-45e7-8bd0-66c4c673fe90
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : dd56a7e1-a4b1-4621-92e5-95d1acbee6b7
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1b8
+P2 : a
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG4400\WATCHDOG4400-20241216-2054.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-6826046-1.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5ffc9f8a-a515-4b47-a3f9-97a6b8fb8743.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.f87e3252-539a-463c-ab54-40cebd65a052.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.097efdd9-f80b-46b7-9a31-6af04476d27a.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.91142384-fd90-4c3d-a991-fd4e4841154c.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1b8_8fa7e01760fd533c5dce8eb299b7ad27ad53e77_00000000_d3bff013-bbe2-4f84-945e-7fd865d771f3
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : d3bff013-bbe2-4f84-945e-7fd865d771f3
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 1a8
+P2 : a
+P3 : 0
+P4 : 0
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20241216-2054.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-6825937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.26d7011e-3be9-47a0-ab59-ed5a5ce48d4e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.586d0ddc-793d-4260-a370-95b313713182.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.fd762870-df0d-4e2e-b863-e8ade277d17d.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2f3fbd2f-56c7-467b-acab-0a9ea118d79d.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_0b98cc20-c75f-43ee-b6b0-17837fcda14f
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 0b98cc20-c75f-43ee-b6b0-17837fcda14f
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : BlueScreen
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 7e
+P2 : ffffffffc0000005
+P3 : fffff802e46731c8
+P4 : ffffbb02b6e4ebd8
+P5 : ffffbb02b6e4e3c0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\Minidump\121324-11046-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-11046-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9e957d25-20c8-460b-b614-fa61dd68e865.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.866b92c8-6605-49ed-bcbd-367557f5c014.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.326cdf4c-7316-4540-a873-38d066fca886.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c24ca78a-71d4-49db-b5bf-5852c590ca52.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_7e_94169f7faae4dd2146da21cd9701384696f8_00000000_4e86234b-168d-4b84-82cd-ea478fc76054
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : a232c5e1-1d96-4626-825d-9770877a53de
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
+Information	14/01/2025 08:33:54	Windows Error Reporting	1001	Aucun	"Détecteur d'erreurs , type 0
+Nom d’événement : LiveKernelEvent
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 193
+P2 : 80e
+P3 : ffffe78fa54330c0
+P4 : ffff908c7cc24d70
+P5 : 0
+P6 : 10_0_26100
+P7 : 0_0
+P8 : 256_1
+P9 : 
+P10 : 
+
+Fichiers joints :
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20241211-1926.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-31314375-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2d2656ad-dee0-48f6-adaa-87983f67b6f1.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.4c06090b-fc56-477e-98c6-ade745bfbabe.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.901f538a-81bc-41b4-b1b9-16fa474b5dd5.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.116944c0-4259-473d-a00a-3399f3282964.tmp.xml
+
+Ces fichiers sont peut-être disponibles ici :
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_193_2c6fcbc962d5113759db47db45f3b1ea72adfce2_00000000_20eac31f-cf39-442c-bc9c-e71510c5572a
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 20eac31f-cf39-442c-bc9c-e71510c5572a
+Statut du rapport : 2051
+Récipient avec hachage : 
+GUID CAB :0"
