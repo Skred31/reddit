@@ -1,0 +1,6 @@
+Niveau	Date et heure	Source	ID de l’événement	Catégorie de la tâche
+Erreur	12/01/2025 22:51:56	Microsoft-Windows-TPM-WMI	1796	Aucun	La mise à jour de Secure Boot a échoué à mettre à jour une variable Secure Boot avec l'erreur Paramètre incorrect.. Pour plus d'informations, veuillez consulter https://go.microsoft.com/fwlink/?linkid=2169931
+Erreur	12/01/2025 22:49:55	Microsoft-Windows-WER-SystemErrorReporting	1001	Aucun	L’ordinateur a redémarré après une vérification d’erreur. La vérification d’erreur était : 0x0000003b (0x00000000c0000005, 0xfffff8018740d570, 0xffff8380037f58d0, 0x0000000000000000). Un vidage a été enregistré dans : C:\WINDOWS\Minidump\011225-10343-01.dmp. ID de rapport : f2b323ca-71e0-4912-b61f-5702ca847cf7.
+Critique	12/01/2025 22:49:49	Microsoft-Windows-Kernel-Power	41	(63)	Le système a redémarré sans s’arrêter correctement au préalable. Cette erreur peut survenir si le système ne répond plus, s’est bloqué ou n’est plus alimenté de façon inattendue.
+Erreur	12/01/2025 22:49:47	volmgr	162	Aucun	Nous avons généré le fichier de l’image mémoire.
+Erreur	12/01/2025 22:49:56	EventLog	6008	Aucun	L’arrêt système précédant à 22:39:07 le ‎12/‎01/‎2025 n’était pas prévu.
