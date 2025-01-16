@@ -1,0 +1,356 @@
+
+************* Preparing the environment for Debugger Extensions Gallery repositories **************
+   ExtensionRepository : Implicit
+   UseExperimentalFeatureForNugetShare : true
+   AllowNugetExeUpdate : true
+   NonInteractiveNuget : true
+   AllowNugetMSCredentialProviderInstall : true
+   AllowParallelInitializationOfLocalRepositories : true
+   EnableRedirectToChakraJsProvider : false
+
+   -- Configuring repositories
+      ----> Repository : LocalInstalled, Enabled: true
+      ----> Repository : UserExtensions, Enabled: true
+
+>>>>>>>>>>>>> Preparing the environment for Debugger Extensions Gallery repositories completed, duration 0.000 seconds
+
+************* Waiting for Debugger Extensions Gallery to Initialize **************
+
+>>>>>>>>>>>>> Waiting for Debugger Extensions Gallery to Initialize completed, duration 0.219 seconds
+   ----> Repository : UserExtensions, Enabled: true, Packages count: 0
+   ----> Repository : LocalInstalled, Enabled: true, Packages count: 42
+
+Microsoft (R) Windows Debugger Version 10.0.27725.1000 AMD64
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+
+Loading Dump File [C:\WINDOWS\Minidump\011625-11796-01.dmp]
+Mini Kernel Dump File: Only registers and stack trace are available
+
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       srv*
+Symbol search path is: srv*
+Executable search path is: 
+Windows 10 Kernel Version 26100 MP (12 procs) Free x64
+Product: WinNt, suite: TerminalServer SingleUserTS
+Kernel base = 0xfffff805`a5000000 PsLoadedModuleList = 0xfffff805`a5ef4870
+Debug session time: Thu Jan 16 18:51:26.474 2025 (UTC + 1:00)
+System Uptime: 0 days 2:53:36.268
+Loading Kernel Symbols
+...............................................................
+................................................................
+................................................................
+...............
+Loading User Symbols
+
+Loading unloaded module list
+.................................
+For analysis of this file, run !analyze -v
+nt!KeBugCheckEx:
+fffff805`a54b85d0 48894c2408      mov     qword ptr [rsp+8],rcx ss:0018:ffffb187`0ebd73c0=0000000000000050
+10: kd> !analyze -v
+*******************************************************************************
+*                                                                             *
+*                        Bugcheck Analysis                                    *
+*                                                                             *
+*******************************************************************************
+
+PAGE_FAULT_IN_NONPAGED_AREA (50)
+Invalid system memory was referenced.  This cannot be protected by try-except.
+Typically the address is just plain bad or it is pointing at freed memory.
+Arguments:
+Arg1: ffffa186ca602308, memory referenced.
+Arg2: 0000000000000011, X64: bit 0 set if the fault was due to a not-present PTE.
+	bit 1 is set if the fault was due to a write, clear if a read.
+	bit 3 is set if the processor decided the fault was due to a corrupted PTE.
+	bit 4 is set if the fault was due to attempted execute of a no-execute PTE.
+	- ARM64: bit 1 is set if the fault was due to a write, clear if a read.
+	bit 3 is set if the fault was due to attempted execute of a no-execute PTE.
+Arg3: ffffa186ca602308, If non-zero, the instruction address which referenced the bad memory
+	address.
+Arg4: 0000000000000002, (reserved)
+
+Debugging Details:
+------------------
+
+
+KEY_VALUES_STRING: 1
+
+    Key  : AV.PTE
+    Value: Valid
+
+    Key  : AV.Type
+    Value: Execute
+
+    Key  : Analysis.CPU.mSec
+    Value: 1109
+
+    Key  : Analysis.Elapsed.mSec
+    Value: 2487
+
+    Key  : Analysis.IO.Other.Mb
+    Value: 1
+
+    Key  : Analysis.IO.Read.Mb
+    Value: 1
+
+    Key  : Analysis.IO.Write.Mb
+    Value: 23
+
+    Key  : Analysis.Init.CPU.mSec
+    Value: 406
+
+    Key  : Analysis.Init.Elapsed.mSec
+    Value: 12455
+
+    Key  : Analysis.Memory.CommitPeak.Mb
+    Value: 87
+
+    Key  : Analysis.Version.DbgEng
+    Value: 10.0.27725.1000
+
+    Key  : Analysis.Version.Description
+    Value: 10.2408.27.01 amd64fre
+
+    Key  : Analysis.Version.Ext
+    Value: 1.2408.27.1
+
+    Key  : Bugcheck.Code.LegacyAPI
+    Value: 0x50
+
+    Key  : Bugcheck.Code.TargetModel
+    Value: 0x50
+
+    Key  : Dump.Attributes.AsUlong
+    Value: 21808
+
+    Key  : Dump.Attributes.DiagDataWrittenToHeader
+    Value: 1
+
+    Key  : Dump.Attributes.ErrorCode
+    Value: 0
+
+    Key  : Dump.Attributes.KernelGeneratedTriageDump
+    Value: 1
+
+    Key  : Dump.Attributes.LastLine
+    Value: Dump completed successfully.
+
+    Key  : Dump.Attributes.ProgressPercentage
+    Value: 0
+
+    Key  : Failure.Bucket
+    Value: AV_X_(null)_nt!MiSystemFault
+
+    Key  : Failure.Hash
+    Value: {49578414-34a9-c6dc-c795-b8c5552d5975}
+
+    Key  : Hypervisor.Enlightenments.ValueHex
+    Value: 7497cf94
+
+    Key  : Hypervisor.Flags.AnyHypervisorPresent
+    Value: 1
+
+    Key  : Hypervisor.Flags.ApicEnlightened
+    Value: 1
+
+    Key  : Hypervisor.Flags.ApicVirtualizationAvailable
+    Value: 0
+
+    Key  : Hypervisor.Flags.AsyncMemoryHint
+    Value: 0
+
+    Key  : Hypervisor.Flags.CoreSchedulerRequested
+    Value: 0
+
+    Key  : Hypervisor.Flags.CpuManager
+    Value: 1
+
+    Key  : Hypervisor.Flags.DeprecateAutoEoi
+    Value: 0
+
+    Key  : Hypervisor.Flags.DynamicCpuDisabled
+    Value: 1
+
+    Key  : Hypervisor.Flags.Epf
+    Value: 0
+
+    Key  : Hypervisor.Flags.ExtendedProcessorMasks
+    Value: 1
+
+    Key  : Hypervisor.Flags.HardwareMbecAvailable
+    Value: 1
+
+    Key  : Hypervisor.Flags.MaxBankNumber
+    Value: 0
+
+    Key  : Hypervisor.Flags.MemoryZeroingControl
+    Value: 0
+
+    Key  : Hypervisor.Flags.NoExtendedRangeFlush
+    Value: 0
+
+    Key  : Hypervisor.Flags.NoNonArchCoreSharing
+    Value: 1
+
+    Key  : Hypervisor.Flags.Phase0InitDone
+    Value: 1
+
+    Key  : Hypervisor.Flags.PowerSchedulerQos
+    Value: 0
+
+    Key  : Hypervisor.Flags.RootScheduler
+    Value: 0
+
+    Key  : Hypervisor.Flags.SynicAvailable
+    Value: 1
+
+    Key  : Hypervisor.Flags.UseQpcBias
+    Value: 0
+
+    Key  : Hypervisor.Flags.Value
+    Value: 38408431
+
+    Key  : Hypervisor.Flags.ValueHex
+    Value: 24a10ef
+
+    Key  : Hypervisor.Flags.VpAssistPage
+    Value: 1
+
+    Key  : Hypervisor.Flags.VsmAvailable
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.AccessStats
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.CrashdumpEnlightened
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.CreateVirtualProcessor
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.DisableHyperthreading
+    Value: 0
+
+    Key  : Hypervisor.RootFlags.HostTimelineSync
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.HypervisorDebuggingEnabled
+    Value: 0
+
+    Key  : Hypervisor.RootFlags.IsHyperV
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.LivedumpEnlightened
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.MapDeviceInterrupt
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.MceEnlightened
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.Nested
+    Value: 0
+
+    Key  : Hypervisor.RootFlags.StartLogicalProcessor
+    Value: 1
+
+    Key  : Hypervisor.RootFlags.Value
+    Value: 1015
+
+    Key  : Hypervisor.RootFlags.ValueHex
+    Value: 3f7
+
+
+BUGCHECK_CODE:  50
+
+BUGCHECK_P1: ffffa186ca602308
+
+BUGCHECK_P2: 11
+
+BUGCHECK_P3: ffffa186ca602308
+
+BUGCHECK_P4: 2
+
+FILE_IN_CAB:  011625-11796-01.dmp
+
+TAG_NOT_DEFINED_202b:  *** Unknown TAG in analysis list 202b
+
+
+DUMP_FILE_ATTRIBUTES: 0x21808
+  Kernel Generated Triage Dump
+
+FAULTING_THREAD:  ffffa186bd5f5040
+
+WRITE_ADDRESS: fffff805a5fc34b0: Unable to get MiVisibleState
+Unable to get NonPagedPoolStart
+Unable to get NonPagedPoolEnd
+Unable to get PagedPoolStart
+Unable to get PagedPoolEnd
+unable to get nt!MmSpecialPagesInUse
+ ffffa186ca602308 
+
+MM_INTERNAL_CODE:  2
+
+BLACKBOXBSD: 1 (!blackboxbsd)
+
+
+BLACKBOXNTFS: 1 (!blackboxntfs)
+
+
+BLACKBOXPNP: 1 (!blackboxpnp)
+
+
+BLACKBOXWINLOGON: 1
+
+CUSTOMER_CRASH_COUNT:  1
+
+PROCESS_NAME:  System
+
+TRAP_FRAME:  ffffb1870ebd7620 -- (.trap 0xffffb1870ebd7620)
+NOTE: The trap frame does not contain all registers.
+Some register values may be zeroed or incorrect.
+rax=00000000000005a0 rbx=0000000000000000 rcx=ffffa186c14a5a30
+rdx=0000000000000000 rsi=0000000000000000 rdi=0000000000000000
+rip=ffffa186ca602308 rsp=ffffb1870ebd77b8 rbp=fffff80588b1f172
+ r8=0000000000000000  r9=fffff8058865e4bb r10=00000000000041b1
+r11=0000000000000011 r12=0000000000000000 r13=0000000000000000
+r14=0000000000000000 r15=0000000000000000
+iopl=0         nv up ei ng nz na po nc
+ffffa186`ca602308 00e0            add     al,ah
+Resetting default scope
+
+STACK_TEXT:  
+ffffb187`0ebd73b8 fffff805`a52d3c85     : 00000000`00000050 ffffa186`ca602308 00000000`00000011 ffffb187`0ebd7620 : nt!KeBugCheckEx
+ffffb187`0ebd73c0 fffff805`a527a51f     : ffffa186`ca602308 00000000`00001000 00000000`00000002 fffff805`a5000000 : nt!MiSystemFault+0x735
+ffffb187`0ebd74b0 fffff805`a5688ecb     : 00000000`000041b1 fffff805`88a067a2 00000000`00000000 00000000`00000000 : nt!MmAccessFault+0x2ff
+ffffb187`0ebd7620 ffffa186`ca602308     : 00000000`00000000 ffffa186`ca602308 00000000`00000b66 ffffa186`bd480028 : nt!KiPageFault+0x38b
+ffffb187`0ebd77b8 00000000`00000000     : ffffa186`ca602308 00000000`00000b66 ffffa186`bd480028 fffff805`88b1f2d6 : 0xffffa186`ca602308
+
+
+SYMBOL_NAME:  nt!MiSystemFault+735
+
+MODULE_NAME: nt
+
+IMAGE_VERSION:  10.0.26100.2894
+
+STACK_COMMAND:  .process /r /p 0xffffa186a0554040; .thread 0xffffa186bd5f5040 ; kb
+
+IMAGE_NAME:  ntkrnlmp.exe
+
+BUCKET_ID_FUNC_OFFSET:  735
+
+FAILURE_BUCKET_ID:  AV_X_(null)_nt!MiSystemFault
+
+OSPLATFORM_TYPE:  x64
+
+OSNAME:  Windows 10
+
+FAILURE_ID_HASH:  {49578414-34a9-c6dc-c795-b8c5552d5975}
+
+Followup:     MachineOwner
+---------
+
